@@ -1,0 +1,506 @@
+id,url,title,episode_title
+0,https://www.rottentomatoes.com/tv/best_of_american_pickers/s19/e17,american pickers,the doctor is in
+1,https://www.rottentomatoes.com/tv/grand_crew/s01/e10,grand crew,wine & art
+2,https://www.rottentomatoes.com/tv/best_of_american_pickers/s05/e06,american pickers,what happens in sturgis...
+3,https://www.rottentomatoes.com/tv/a_p_bio/s03/e07,a.p. bio,aces wild
+4,https://www.rottentomatoes.com/tv/a_p_bio/s04,a.p. bio,the perfect date from hell
+5,https://www.rottentomatoes.com/tv/the_amber_ruffin_show/s01/e09,the amber ruffin show,episode #09
+6,https://www.rottentomatoes.com/tv/keeping_up_with_the_kardashians/s05/e01,keeping up with the kardashians,kim's house party
+7,https://www.rottentomatoes.com/tv/the_amber_ruffin_show/s03/e04,the amber ruffin show,episode #04
+8,https://www.rottentomatoes.com/tv/a_p_bio/s04/e08,a.p. bio,the harvard pen
+9,https://www.rottentomatoes.com/tv/keeping_up_with_the_kardashians/s13/e08,keeping up with the kardashians,guilt trip
+10,https://www.rottentomatoes.com/tv/hells_kitchen/s11/e19,hell's kitchen,5 chefs
+11,https://www.rottentomatoes.com/tv/a_p_bio,a.p. bio,that that that
+12,https://www.rottentomatoes.com/tv/hells_kitchen/s11,hell's kitchen,11 chefs
+13,https://www.rottentomatoes.com/tv/american_pickers_bonus_buys/s02/e82/,american pickers,pick your battle
+14,https://www.rottentomatoes.com/tv/a_little_late_with_lilly_singh/s01/e44,a little late with lilly singh,leslie odom jr.
+15,https://www.rottentomatoes.com/tv/best_of_american_pickers/s06/e01,american pickers,boys' toys
+16,https://www.rottentomatoes.com/tv/hells_kitchen/s08/e14,hell's kitchen,4 chefs compete again
+17,https://www.rottentomatoes.com/tv/keeping_up_with_the_kardashians/s04/e07,keeping up with the kardashians,weekend from hell
+18,https://www.rottentomatoes.com/tv/a_little_late_with_lilly_singh/s01/e65,a little late with lilly singh,"natasha leggero, moshe kasher"
+19,https://www.rottentomatoes.com/tv/best_of_american_pickers/s08/e08,american pickers,hometown pickin'
+20,https://www.rottentomatoes.com/tv/a_p_bio/s04/e01,a.p. bio,tornado!
+21,https://www.rottentomatoes.com/tv/the_amber_ruffin_show/s01/e02,the amber ruffin show,episode #02
+22,https://www.rottentomatoes.com/tv/a_p_bio/s03/e08,a.p. bio,katie holmes day
+23,https://www.rottentomatoes.com/tv/hells_kitchen/s11/e19,hell's kitchen,19 chefs compete
+24,https://www.rottentomatoes.com/tv/a_p_bio/s04/e03,a.p. bio,an oath to rusty
+25,https://www.rottentomatoes.com/tv/best_of_american_pickers/s13/e10,american pickers,texas hold 'em
+26,https://www.rottentomatoes.com/tv/a_little_late_with_lilly_singh/s01/e13,a little late with lilly singh,america ferrera
+27,https://www.rottentomatoes.com/tv/hells_kitchen/s12/e08,hell's kitchen,8 chefs compete
+28,https://www.rottentomatoes.com/tv/best_of_american_pickers/s17/e10,american pickers,superhero heaven
+29,https://www.rottentomatoes.com/tv/best_of_american_pickers/s10/e08,american pickers,picking it forward
+30,https://editorial.rottentomatoes.com/article/truth-be-told-stars-octavia-spencer-and-aaron-paul-examine-our-true-crime-obsession/,forensic files,time will tell
+31,https://www.rottentomatoes.com/celebrity/simon_lloyd,american pickers,good & evel
+32,https://www.rottentomatoes.com/tv/a_little_late_with_lilly_singh/s02/e53,a little late with lilly singh,nick offerman
+35,https://www.rottentomatoes.com/tv/the_amber_ruffin_show/s01/e22,the amber ruffin show,episode #22
+36,https://www.rottentomatoes.com/tv/forensic_files/s11/e19,forensic files,no safe place
+37,https://www.rottentomatoes.com/tv/the_amber_ruffin_show/s02/e15,the amber ruffin show,episode #15
+38,https://www.rottentomatoes.com/tv/grand_crew/s01/e06,grand crew,wine & pie
+39,https://www.rottentomatoes.com/tv/a_little_late_with_lilly_singh/s02/e58,a little late with lilly singh,justin baldoni
+40,https://www.rottentomatoes.com/tv/the_innocence_files/s01/e03,forensic files,innocence lost
+41,https://www.rottentomatoes.com/tv/kitchen-nightmares/s05/e04,kitchen nightmares,ms. jean's southern cuisine
+43,https://www.rottentomatoes.com/tv/kitchen-nightmares/s05/e11,kitchen nightmares,mill street bistro part 1
+44,https://editorial.rottentomatoes.com/guide/great-feel-good-movies/,late night with seth meyers,"chris evans, action bronson, elle king (at home edition)"
+45,https://www.rottentomatoes.com/tv/late_night_with_seth_meyers/s07/e129,late night with seth meyers,"amy sedaris, joy reid (at home edition)"
+46,https://www.rottentomatoes.com/tv/late_night_with_seth_meyers/s09/e79,late night with seth meyers,"ben stiller, rose matafeo"
+47,https://www.rottentomatoes.com/tv/kitchen-nightmares/s05/e10,kitchen nightmares,nino's italian restaurant
+48,https://www.rottentomatoes.com/tv/late_night_with_seth_meyers/s07/e64,late night with seth meyers,"claire danes, zach woods, gov. gavin newsom"
+49,https://www.rottentomatoes.com/tv/kitchen-nightmares/s02/e05,kitchen nightmares,lido di manhattan
+50,https://www.rottentomatoes.com/tv/late_night_with_seth_meyers/s07/e77,late night with seth meyers,"emily ratajkowski, cillian murphy, david simon"
+51,https://www.rottentomatoes.com/tv/keeping_up_with_the_kardashians,keeping up with the kardashians,family first
+52,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s07/e05,million dollar listing los angeles,flagg vs. serhant
+53,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s06/e09,million dollar listing los angeles,mexican retreat
+54,https://www.rottentomatoes.com/tv/forensic_files/s05/e10,forensic files,nursery crimes
+55,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s07/e03,million dollar listing los angeles,real estate on wheels
+56,https://www.rottentomatoes.com/tv/saved_by_the_bell/s03/e05,saved by the bell,house party
+57,https://www.rottentomatoes.com/tv/pawn_stars/s08/e21,pawn stars,on a mission to pawn
+58,https://www.rottentomatoes.com/tv/parenthood/s06/e06,parenthood,too big to fail
+59,https://www.rottentomatoes.com/tv/saved_by_the_bell/s04/e21,saved by the bell,no hope with dope
+60,https://www.rottentomatoes.com/tv/pawn_stars/s09/e14,pawn stars,the great pawnbino
+61,https://www.rottentomatoes.com/tv/parenthood/s03/e17,parenthood,"remember me, i'm the one who loves you"
+62,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s08/e14,million dollar listing los angeles,making moves
+63,https://www.rottentomatoes.com/tv/saved_by_the_bell/s04/e18,saved by the bell,palm springs weekend - pt 1
+64,https://www.rottentomatoes.com/tv/saved_by_the_bell/s02/e12,saved by the bell,the mamas & papas
+65,https://www.rottentomatoes.com/tv/saved_by_the_bell/s03/e02,saved by the bell,zack's war
+66,https://www.rottentomatoes.com/tv/pawn_stars/s16/e19,pawn stars,"happy meal, happy deal"
+67,https://www.rottentomatoes.com/tv/parenthood/s05/e02,parenthood,all aboard who's coming aboard
+68,https://www.rottentomatoes.com/tv/pawn_stars/s10/e31,pawn stars,the chum system
+69,https://www.rottentomatoes.com/tv/parenthood/s02/e01,parenthood,"i hear you, i see you"
+70,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s06/e04,million dollar listing los angeles,third degree burn
+71,https://www.rottentomatoes.com/tv/parenthood/s04/e14,parenthood,"one step forward, two steps back"
+72,https://www.rottentomatoes.com/tv/pawn_stars/s10/e40,pawn stars,chum's secret stash
+73,https://www.rottentomatoes.com/tv/saved_by_the_bell/s05/e14,saved by the bell,the will
+74,https://www.rottentomatoes.com/tv/superstore/s03/e01,superstore,grand re-opening
+75,https://www.rottentomatoes.com/tv/summer_house/s05/e09,summer house,should i stay or should i go?
+76,https://www.rottentomatoes.com/tv/summer_house/s06/e14,summer house,keep prom and carry on
+77,https://www.rottentomatoes.com/tv/summer_house/s01/e05,summer house,"wine, whining, and wieners"
+78,https://www.rottentomatoes.com/tv/summer_house/s07/e17,summer house,reunion part 2
+79,https://www.rottentomatoes.com/tv/summer_house/s03/e02,summer house,cloudy with a chance of arguments
+80,https://www.rottentomatoes.com/tv/superstore/s03/e17,superstore,district manager
+81,https://www.rottentomatoes.com/tv/superstore/s04/e19,superstore,scanners
+82,https://www.rottentomatoes.com/tv/superstore/s06/e11,superstore,deep cleaning
+83,https://www.rottentomatoes.com/tv/summer_house/s04/e14,summer house,rave goodbye
+84,https://www.rottentomatoes.com/tv/superstore/s06/e02,superstore,"california, part 2"
+85,https://www.rottentomatoes.com/tv/summer_house/s03/e07,summer house,epic grand gesture
+86,https://www.rottentomatoes.com/tv/superstore/s05/e03,superstore,forced hire
+87,https://www.rottentomatoes.com/tv/superstore/s05/e07,superstore,shoplifter rehab
+88,https://www.rottentomatoes.com/tv/superstore/s04/e07,superstore,new initiative
+89,https://www.rottentomatoes.com/tv/superstore/s02/e01,superstore,olympics
+90,https://www.rottentomatoes.com/tv/superstore/s03/e15,superstore,amnesty
+91,https://www.rottentomatoes.com/tv/superstore/s03/e05,superstore,sal's dead
+92,https://www.rottentomatoes.com/tv/superstore/s06/e15,superstore,all sales final
+93,https://www.rottentomatoes.com/tv/this_is_us/s03/e09,this is us,the beginning is the end is the beginning
+94,https://www.rottentomatoes.com/tv/el_socio/s07/e12,the profit,a crash course in van life
+95,https://www.rottentomatoes.com/tv/the_voice_usa/s21/e13,the voice,the knockouts part 3
+96,https://www.rottentomatoes.com/tv/el_socio/s07/e09,the profit,killed by kindness
+97,https://www.rottentomatoes.com/tv/this_is_us/s05,this is us,changes
+98,https://www.rottentomatoes.com/tv/the_voice_usa/s19/e15,the voice,live top 9 performances
+99,https://www.rottentomatoes.com/tv/top_chef/s12/e10,top chef,for julia & jacques
+100,https://www.rottentomatoes.com/tv/el_socio/s06,the profit,smithfly
+101,https://www.rottentomatoes.com/tv/top_chef/s05/e07,top chef,focus group
+102,https://www.rottentomatoes.com/m/talk_to_me_2023,the profit,who's the big cheese
+103,https://www.rottentomatoes.com/tv/top_chef/s06/e14,top chef,finale: part 2
+104,https://www.rottentomatoes.com/tv/this_is_us/s06/e01,this is us,the challenger
+105,https://www.rottentomatoes.com/tv/el_socio/s05/e16/,the profit,hangout lighting
+106,https://www.rottentomatoes.com/tv/zoey_s_extraordinary_playlist/s02/e06,zoey's extraordinary playlist,zoey's extraordinary reckoning
+111,https://editorial.rottentomatoes.com/article/new-on-peacock-in-march-2023/,wwe hall of fame,wwe hall of fame 2020
+112,https://www.rottentomatoes.com/celebrity/roddy_piper,wwe hall of fame,wwe hall of fame 2005
+113,https://www.rottentomatoes.com/tv/paradise_run/s03/e16,wwe superstars,episode 22
+114,https://www.rottentomatoes.com/tv/best_week_ever/s01,wwe hall of fame,wwe hall of fame 2004
+115,https://www.rottentomatoes.com/tv/wwe_rivals/s01/e04,wwe nxt,episode 04
+116,https://www.rottentomatoes.com/tv/harry/s01/e75,wwe superstars,episode 44
+117,https://www.rottentomatoes.com/tv/tanked_sea_lebrity_edition/s01/e15,wwe superstars,episode 43
+120,https://editorial.rottentomatoes.com/article/tv-premiere-dates-2022-archive/2/,wwe talking snack,jeff hardy on being his dad to his daughters
+122,https://editorial.rottentomatoes.com/article/new-movies-tv-shows-streaming-in-september-2023/7/,wwe nxt,episode #24
+123,https://www.rottentomatoes.com/tv/listing_impossible/s01/e03,listing impossible,th best castle in orange county
+124,https://www.rottentomatoes.com/tv/e_true_hollywood_story/s01/e06,e! true hollywood story,what's killing music's biggest stars?
+126,https://www.rottentomatoes.com/tv/jay_lenos_garage/s06/e08,jay leno's garage,limited edition
+127,https://www.rottentomatoes.com/tv/e_true_hollywood_story/s02/e11,e! true hollywood story,tgif
+128,https://www.rottentomatoes.com/tv/e_true_hollywood_story/s02/e07,e! true hollywood story,victoria's secret
+129,https://www.rottentomatoes.com/tv/e_true_hollywood_story/s02/e08,e! true hollywood story,hollywood mysteries
+130,https://www.rottentomatoes.com/tv/e_true_hollywood_story/s02/e10,e! true hollywood story,"billionaires: fierce, fearless and filthy rich"
+131,https://www.rottentomatoes.com/tv/clash_of_the_cover_bands/s01,clash of the cover bands,clash of the showstoppers
+134,https://www.rottentomatoes.com/tv/clash_of_the_cover_bands/s01/e08,clash of the cover bands,clash of the queens of country
+135,https://www.rottentomatoes.com/tv/jay_lenos_garage/s06/e01,jay leno's garage,big dreams
+136,https://www.rottentomatoes.com/tv/jay_lenos_garage/s06/e10,jay leno's garage,thrill rides
+137,https://www.rottentomatoes.com/tv/jay_lenos_garage/s06/e11,jay leno's garage,survival
+138,https://www.rottentomatoes.com/tv/jay_lenos_garage/s06/e12,jay leno's garage,tribute
+139,https://www.rottentomatoes.com/tv/earth_odyssey_with_dylan_dreyer/s04,earth odyssey with dylan dreyer,awesome adaptations
+140,https://www.rottentomatoes.com/tv/earth_odyssey_with_dylan_dreyer/s04,earth odyssey with dylan dreyer,frozen kingdoms
+141,https://www.rottentomatoes.com/tv/earth_odyssey_with_dylan_dreyer/s04,earth odyssey with dylan dreyer,life on the edge
+142,https://www.rottentomatoes.com/tv/earth_odyssey_with_dylan_dreyer/s04,earth odyssey with dylan dreyer,snowfall for all
+145,https://www.rottentomatoes.com/tv/1st_look/s13/e14,1st look,1st look presents: celebrity sleepover with tom & ariana
+146,https://www.rottentomatoes.com/tv/1st_look/s13/e15/pictures,1st look,1st look presents: bananas' reactions with syrus yarbrough
+147,https://www.rottentomatoes.com/tv/1st_look/s13/e16,1st look,destination miami
+148,https://www.rottentomatoes.com/tv/lipstick_jungle/s01/e07,lipstick jungle,chapter seven: carpe threesome
+149,https://www.rottentomatoes.com/tv/lipstick_jungle/s01/e05,lipstick jungle,chapter five: dressed to kill
+150,https://www.rottentomatoes.com/tv/lipstick_jungle/s01/e06,lipstick jungle,chapter six: take the high road
+151,https://www.rottentomatoes.com/tv/lipstick_jungle/s02/e12,lipstick jungle,chapter nineteen: lovers' leap
+152,https://www.rottentomatoes.com/tv/lipstick_jungle/s02/e13/pictures,lipstick jungle,chapter twenty: la vie en pose
+153,https://www.rottentomatoes.com/tv/lipstick_jungle/s02/e09,lipstick jungle,chapter sixteen: thanksgiving
+154,https://www.rottentomatoes.com/tv/lipstick_jungle/s02/e04,lipstick jungle,chapter eleven: the f-word
+155,https://www.rottentomatoes.com/tv/lipstick_jungle/s02/e11,lipstick jungle,chapter eighteen: indecent exposure
+156,https://www.rottentomatoes.com/tv/the_face/s02/e10/pictures,the face,who will be the face?
+157,https://www.rottentomatoes.com/tv/revelations/s01/e06,revelations,hour six
+158,https://www.rottentomatoes.com/tv/revelations/s01/e02,revelations,hour two
+159,https://www.rottentomatoes.com/tv/revelations/s01/e01,revelations,hour one
+160,https://www.rottentomatoes.com/tv/revelations/s01/e05,revelations,hour five
+161,https://www.rottentomatoes.com/tv/revelations/s01/e04,revelations,hour four
+162,https://www.rottentomatoes.com/tv/thats_my_jam/s01/e03,that's my jam,taika waititi & rita ora vs. normani & taraji p. henson
+163,https://www.rottentomatoes.com/tv/thats_my_jam/s01/e06,that's my jam,kate & oliver hudson vs. jordana brewster & brent morin
+164,https://www.rottentomatoes.com/tv/thats_my_jam/s01/e05,that's my jam,jay pharoah & nikki glaser vs. terry crews & dan finnerty
+165,https://www.rottentomatoes.com/tv/thats_my_jam/s01/e02,that's my jam,joseph gordon-levitt & chance the rapper vs. alessia cara...
+166,https://www.rottentomatoes.com/tv/thats_my_jam/s01/e04,that's my jam,anthony anderson & t-pain vs. ryan tedder & bebe rexha
+167,https://www.rottentomatoes.com/tv/transplant/s02/e05,transplant,roads
+168,https://www.rottentomatoes.com/tv/transplant/s03/e10,transplant,control
+169,https://www.rottentomatoes.com/tv/transplant/s02/e08,transplant,scars
+170,https://www.rottentomatoes.com/tv/the_wall/s04/e08,the wall,terra and brandi
+171,https://www.rottentomatoes.com/tv/the_wall/s04/e06,the wall,debbie and ghadir
+172,https://www.rottentomatoes.com/tv/the_wall/s04/e07,the wall,jason and jay
+173,https://www.rottentomatoes.com/tv/the_wall/s04/e03,the wall,tamara and leo
+174,https://www.rottentomatoes.com/tv/the_wall/s04/e11,the wall,tammy and doug
+175,https://www.rottentomatoes.com/tv/the_wall/s04/e02,the wall,brittany and cj
+176,https://www.rottentomatoes.com/tv/grand_crew/s01/e02,grand crew,wine & serendipity
+177,https://www.rottentomatoes.com/tv/grand_crew/s01/e07,grand crew,wine & headlines
+178,https://www.rottentomatoes.com/tv/the_wall/s04/e05,the wall,kd and cj
+179,https://www.rottentomatoes.com/tv/the_wall/s04/e09,the wall,team usa celebration: apolo and bianca
+180,https://www.rottentomatoes.com/tv/young_rock/s02/e05,young rock,what business?
+181,https://www.rottentomatoes.com/tv/young_rock/s02/e03,young rock,in your blood
+182,https://www.rottentomatoes.com/tv/young_rock/s02/e08,young rock,corpus christi
+183,https://www.rottentomatoes.com/tv/high_maintenance/s04,the wall,jordan and maurcus
+184,https://www.rottentomatoes.com/tv/the_wall/s04/e20,the wall,amber and chelsea
+185,https://www.rottentomatoes.com/tv/kenan/s02/e05,kenan,hustle and flow
+186,https://www.rottentomatoes.com/tv/kenan/s02/e01,kenan,dating app
+187,https://www.rottentomatoes.com/tv/kenan/s02/e03,kenan,those chops pop
+188,https://www.rottentomatoes.com/tv/kenan/s02/e04,kenan,ghosts of boyfriends past
+189,https://www.rottentomatoes.com/tv/kenan/s02/e06,kenan,workaholic
+190,https://www.rottentomatoes.com/tv/kenan/s02/e02,kenan,work friends
+191,https://www.rottentomatoes.com/tv/kenan/s01.1,kenan,christmas show
+192,https://www.rottentomatoes.com/tv/kenan/s02/e07,kenan,the whole enchilada
+193,https://www.rottentomatoes.com/tv/the_wall/s04/e18,the wall,melvin and meredith
+194,https://www.rottentomatoes.com/tv/wild_child/s02/e02,wild child,coming of asia
+195,https://www.rottentomatoes.com/tv/wild_child/s01/e04,wild child,african animals
+196,https://www.rottentomatoes.com/tv/wild_child/s02/e12,wild child,asia minors
+197,https://www.rottentomatoes.com/tv/thats_my_jam/s01/e01,that's my jam,ariana grande & blake shelton vs. kelly clarkson & john...
+198,https://www.rottentomatoes.com/tv/one_team_the_power_of_sports/s02/e08,one team: the power of sports,never too old for gold
+199,https://www.rottentomatoes.com/tv/one_team_the_power_of_sports/s03,one team: the power of sports,nice hockey
+200,https://www.rottentomatoes.com/tv/wild_child/s02/e17/reviews,wild child,tough terrain
+201,https://www.rottentomatoes.com/tv/wild_child/s02/e18,wild child,zoos and farms
+202,https://www.rottentomatoes.com/tv/open_house_nyc/s07/e23,open house nyc,best of spring settings
+203,https://www.rottentomatoes.com/tv/one_team_the_power_of_sports/s02/e15,one team: the power of sports,changing the terrain
+204,https://www.rottentomatoes.com/tv/one_team_the_power_of_sports/s02/e17,one team: the power of sports,journey to glory
+205,https://www.rottentomatoes.com/tv/open_house_nyc/s13,open house nyc,fun with design
+206,https://www.rottentomatoes.com/tv/one_team_the_power_of_sports/s02/e20,one team: the power of sports,passing the baton
+207,https://www.rottentomatoes.com/tv/open_house_NYC/s14,open house nyc,fresh and personal design
+208,https://www.rottentomatoes.com/tv/open_house_nyc/s14/e21,open house nyc,open house celebrates mother's day (best of)
+209,https://www.rottentomatoes.com/tv/open_house_nyc/s14/e23,open house nyc,starry retreats
+210,https://www.rottentomatoes.com/tv/open_house_nyc/s14/e22,open house nyc,stunning spaces
+211,https://www.rottentomatoes.com/tv/young_rock/s02/e12,young rock,let the people decide
+212,https://www.rottentomatoes.com/tv/the_voice_usa/s22,the voice,the blind auditions season premiere
+215,https://www.rottentomatoes.com/tv/grand_crew/s01/e05,grand crew,wine & hip-hop
+216,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s05/e03,million dollar listing los angeles,i got the listing and i got the girl
+217,https://www.rottentomatoes.com/tv/biography_wwe_legends/s02,wwe hall of fame,wwe hall of fame 2022
+218,https://www.rottentomatoes.com/tv/kenan/s02/e09,kenan,destroying miami
+219,https://www.rottentomatoes.com/tv/lipstick_jungle/s02/e06,lipstick jungle,"chapter thirteen: the lyin', the bitch and the wardrobe"
+220,https://www.rottentomatoes.com/tv/the_wall/s04/e13,the wall,mikail and shakira
+221,https://www.rottentomatoes.com/tv/forensic_files/s13/e20,forensic files,trail of a killer
+222,https://www.rottentomatoes.com/tv/sisterhood_of_hip_hop/s03/e08,sisterhood of hip hop,gotta have it
+223,https://www.rottentomatoes.com/tv/celebrity_game_face/s04,the face,game on!
+224,https://www.rottentomatoes.com/tv/the_face/s01/e07/,the face,red carpet ready?
+225,https://www.rottentomatoes.com/tv/the_face/s01/e01,the face,the fight to make the final 12
+226,https://www.rottentomatoes.com/tv/sisterhood_of_hip_hop/s02/e03,sisterhood of hip hop,it's all about the benjamins
+227,https://www.rottentomatoes.com/tv/el_socio/s03/e03,the profit,tonnie's minis
+228,https://www.rottentomatoes.com/tv/kitchen-nightmares/s01/e20,kitchen nightmares,sabatiello's
+229,https://www.rottentomatoes.com/tv/sisterhood_of_hip_hop/s01/e07,sisterhood of hip hop,momma drama
+230,https://www.rottentomatoes.com/tv/sisterhood_of_hip_hop/s02/e06,sisterhood of hip hop,aftermath
+231,https://www.rottentomatoes.com/tv/the_face/s02/e04,the face,"sell, sell, sell!"
+232,https://www.rottentomatoes.com/tv/the_face/s02/e08/pictures,the face,diamonds are a model's best friend
+233,https://www.rottentomatoes.com/tv/the_face/s02/e09,the face,press your luck
+234,https://www.rottentomatoes.com/tv/el_socio/s02/e08,the profit,key west key lime pie co
+235,https://www.rottentomatoes.com/tv/el_socio/s03/e13,the profit,da lobsta
+236,https://www.rottentomatoes.com/tv/escape_to_the_chateau/s07/e01/pictures,escape to the chateau,supersized workshop
+237,https://www.rottentomatoes.com/tv/escape_to_the_chateau/s07/e02,escape to the chateau,"sloe gin, library & ceiling rose"
+238,https://www.rottentomatoes.com/tv/escape_to_the_chateau/s07/e03,escape to the chateau,"wash house, trench & vintage bike"
+239,https://www.rottentomatoes.com/tv/escape_to_the_chateau/s07/e04,escape to the chateau,"orangery, daybeds & unexpected history"
+240,https://www.rottentomatoes.com/tv/escape_to_the_chateau/s07/e05,escape to the chateau,"pop-up restaurant, orangery, celebration"
+241,https://www.rottentomatoes.com/tv/escape_to_the_chateau/s09/e08,escape to the chateau,escape to the chateau at christmas
+242,https://www.rottentomatoes.com/tv/the_face/s02/e03,the face,runway dinner party
+243,https://www.rottentomatoes.com/tv/30-rock/s03/e16,30 rock,"apollo, apollo"
+244,https://www.rottentomatoes.com/tv/30-rock/s03/e18,30 rock,jackie jormp-jomp
+245,https://www.rottentomatoes.com/tv/the_office/s07/e14,the office,the seminar
+246,https://www.rottentomatoes.com/tv/the_office/s06,the office,the delivery part 2 (edited)
+247,https://www.rottentomatoes.com/tv/the_office_superfan_episodes/s06,the office,niagara part 2 (edited)
+248,https://www.rottentomatoes.com/tv/below_deck/s02/e12,below deck,the crew tells all
+249,https://www.rottentomatoes.com/tv/the_office/s03/e20/videos,the office,safety training
+250,https://www.rottentomatoes.com/tv/the_office/s02/e04,the office,fire
+251,https://www.rottentomatoes.com/tv/30-rock/s02/e10,30 rock,episode 210
+252,https://www.rottentomatoes.com/tv/the_office_superfan_episodes/s05/e15,the office,stress relief - part 2 (edited)
+253,https://www.rottentomatoes.com/tv/the_office/s08/e01,the office,the list
+254,https://www.rottentomatoes.com/tv/royal_pains/s07/e02,royal pains,false start
+255,https://www.rottentomatoes.com/tv/downton_abbey/s02/e09,downton abbey,episode #09-making of downton abbey
+256,https://www.rottentomatoes.com/tv/30-rock/s02/e02,30 rock,jack gets in the game
+257,https://www.rottentomatoes.com/tv/30-rock/s02/e03,30 rock,the collection
+258,https://www.rottentomatoes.com/tv/murder_she_wrote/s07/e02,"murder, she wrote",deadly misunderstanding
+259,https://www.rottentomatoes.com/tv/murder_she_wrote/s08/e11,"murder, she wrote",danse diabolique
+260,https://www.rottentomatoes.com/tv/murder_she_wrote/s10/e16,"murder, she wrote",time to die
+261,https://www.rottentomatoes.com/tv/murder_she_wrote/s09/e09,"murder, she wrote",a christmas secret
+262,https://www.rottentomatoes.com/tv/the_king_of_queens/s05/e15,the king of queens,s'aint valentine's
+263,https://www.rottentomatoes.com/tv/30-rock/s06/e03,30 rock,idiots are people three!
+264,https://www.rottentomatoes.com/tv/murder_she_wrote/s10/e13,"murder, she wrote",portrait of death
+265,https://www.rottentomatoes.com/tv/the_king_of_queens/s04/e04,the king of queens,friender bender
+266,https://www.rottentomatoes.com/tv/yellowstone/s01/e07,yellowstone,a monster is among us
+267,https://www.rottentomatoes.com/tv/frasier/s11/e22,frasier,crock tales
+268,https://www.rottentomatoes.com/tv/30-rock/s02/e14,30 rock,sandwich day
+269,https://www.rottentomatoes.com/tv/the_king_of_queens/s09/e03,the king of queens,moxie moron
+270,https://www.rottentomatoes.com/tv/yellowstone/s01/e08,yellowstone,the unravelling: pt. 1
+271,https://www.rottentomatoes.com/tv/30-rock/s03/e04,30 rock,gavin volure
+272,https://www.rottentomatoes.com/tv/30-rock/s01/e15,30 rock,hard ball
+273,https://www.rottentomatoes.com/tv/murder_she_wrote/s05/e08,"murder, she wrote",prediction: murder
+274,https://www.rottentomatoes.com/tv/30-rock/s02/e04,30 rock,the baby show
+275,https://www.rottentomatoes.com/tv/murder_she_wrote/s11/e18,"murder, she wrote",the dream team
+276,https://www.rottentomatoes.com/tv/murder_she_wrote/s10/e11,"murder, she wrote",northern explosion
+277,https://www.rottentomatoes.com/tv/below_deck_mediterranean/s03/e03,below deck mediterranean,bad vibrations
+278,https://www.rottentomatoes.com/tv/murder_she_wrote/s11/e02,"murder, she wrote",amsterdam kill
+279,https://www.rottentomatoes.com/tv/the_king_of_queens/s05/e11,the king of queens,mentalo case
+280,https://www.rottentomatoes.com/tv/30-rock/s01/e06,30 rock,jack meets dennis
+281,https://www.rottentomatoes.com/tv/murder_she_wrote/s11/e09,"murder, she wrote",murder by twos
+282,https://www.rottentomatoes.com/tv/below_deck_mediterranean/s03/e14,below deck mediterranean,stew coup
+283,https://www.rottentomatoes.com/tv/frasier/s04/e05,frasier,head game
+284,https://www.rottentomatoes.com/tv/yellowstone/s02/e05,yellowstone,touching your enemy
+285,https://www.rottentomatoes.com/tv/yellowstone/s01/e03,yellowstone,no good horses
+286,https://www.rottentomatoes.com/tv/murder_she_wrote/s06/e18,"murder, she wrote",o'malley's luck
+287,https://www.rottentomatoes.com/tv/frasier/s09/e10,frasier,junior agent
+288,https://www.rottentomatoes.com/tv/murder_she_wrote/s11/e08,"murder, she wrote",crimson harvest
+289,https://www.rottentomatoes.com/tv/royal_pains/s04/e01,royal pains,after the fireworks
+290,https://www.rottentomatoes.com/tv/royal_pains/s03/e14,royal pains,bottoms up
+291,https://www.rottentomatoes.com/tv/downton_abbey/s02/e09,downton abbey,xmas special
+292,https://www.rottentomatoes.com/tv/murder_she_wrote/s04/e18,"murder, she wrote",benedict arnold slipped here
+293,https://www.rottentomatoes.com/tv/30-rock/s06/e11,30 rock,standards and practices
+294,https://www.rottentomatoes.com/tv/murder_she_wrote/s10/e12,"murder, she wrote",proof in the pudding
+295,https://www.rottentomatoes.com/tv/30-rock/s07/e08,30 rock,my whole life is thunder
+296,https://www.rottentomatoes.com/tv/below_deck/s04/e07,below deck,the proposal
+297,https://www.rottentomatoes.com/tv/frasier/s04/e09,frasier,"dad loves sherry, the boys just whine"
+298,https://www.rottentomatoes.com/tv/the_king_of_queens/s08/e23,the king of queens,acting out
+299,https://www.rottentomatoes.com/tv/downton_abbey/s04/e04,downton abbey,episode #04
+300,https://www.rottentomatoes.com/tv/frasier/s11/e14,frasier,freudian sleep
+301,https://www.rottentomatoes.com/tv/frasier/s03/e10,frasier,it's hard to say goodbye if you won't leave
+302,https://www.rottentomatoes.com/tv/frasier/s07/e22,frasier,dark side of the moon
+303,https://www.rottentomatoes.com/tv/downton_abbey/s01/e03,downton abbey,episode #03
+304,https://www.rottentomatoes.com/tv/frasier/s10/e22,frasier,fathers and sons
+305,https://www.rottentomatoes.com/tv/frasier/s02/e23,frasier,the innkeepers
+306,https://www.rottentomatoes.com/tv/frasier/s07/e01,frasier,momma mia
+307,https://www.rottentomatoes.com/tv/frasier/s03/e12,frasier,come lie with me
+308,https://www.rottentomatoes.com/tv/frasier/s03/e03,frasier,martin does it his way
+309,https://www.rottentomatoes.com/tv/murder_she_wrote/s01/e14,"murder, she wrote",murder to a jazz beat
+310,https://www.rottentomatoes.com/tv/murder_she_wrote/s01/e12,"murder, she wrote",capitol offense
+311,https://www.rottentomatoes.com/tv/friday-night-lights/s05/e11,friday night lights,the march
+312,https://www.rottentomatoes.com/tv/murder_she_wrote/s05/e16,"murder, she wrote",truck stop
+313,https://www.rottentomatoes.com/tv/friday-night-lights/s05/e02,friday night lights,on the outside looking in
+314,https://www.rottentomatoes.com/tv/murder_she_wrote/s04/e16,"murder, she wrote",murder through the looking glass
+315,https://www.rottentomatoes.com/tv/friday-night-lights/s04/e11,friday night lights,injury list
+316,https://www.rottentomatoes.com/tv/heroes/s04/e06,heroes,tabula rasa
+317,https://www.rottentomatoes.com/tv/heroes/s04/e05,heroes,hysterical blindness
+318,https://www.rottentomatoes.com/tv/murder_she_wrote/s04/e15,"murder, she wrote",mourning among the wisterias
+319,https://www.rottentomatoes.com/tv/murder_she_wrote/s04/e10,"murder, she wrote",indian giver
+320,https://www.rottentomatoes.com/tv/murder_she_wrote/s04/e22,"murder, she wrote",the body politic
+321,https://www.rottentomatoes.com/tv/murder_she_wrote/s03/e22,"murder, she wrote","murder, she spoke"
+322,https://www.rottentomatoes.com/tv/house/s07/e22,house,after hours
+323,https://www.rottentomatoes.com/tv/murder_she_wrote/s02/e13,"murder, she wrote",trial by error
+324,https://www.rottentomatoes.com/tv/murder_she_wrote/s02/e20,"murder, she wrote","menace, anyone?"
+325,https://www.rottentomatoes.com/tv/eureka/s04/e09,eurek,i'll be seeing you
+326,https://www.rottentomatoes.com/tv/eureka/s03/e13,eurek,if you build it...
+327,https://www.rottentomatoes.com/tv/eureka/s01/e03,eureka,before i forget
+328,https://www.rottentomatoes.com/tv/eureka/s04/e02,eurek,a new world
+329,https://www.rottentomatoes.com/tv/eureka/s01/e09,eureka,primal
+331,https://www.rottentomatoes.com/tv/eureka/s03/e14,eurek,ship happens
+333,https://www.rottentomatoes.com/tv/listing_impossible/s01/e05,listing impossible,episode #05
+334,https://www.rottentomatoes.com/tv/mr_robot/s03/e05,mr. robot,eps3.4_runtime-error.r00
+335,https://www.rottentomatoes.com/tv/listing_impossible/s01/e06,listing impossible,the purple rose of calabasas
+336,https://www.rottentomatoes.com/tv/mr_robot/s03/e02,mr. robot,eps3.1_undo.gz
+337,https://www.rottentomatoes.com/tv/mr_robot/s04/e13,mr. robot,"hello, elliot"
+338,https://www.rottentomatoes.com/tv/pawn_stars/s10/e02,pawn stars,fireworks and freedom
+339,https://www.rottentomatoes.com/tv/mr_robot/s03/e04,mr. robot,eps3.3_metadata.par2
+340,https://www.rottentomatoes.com/tv/mr_robot/s03/e07,mr. robot,eps3.6_fredrick+tanya.chk
+342,https://www.rottentomatoes.com/tv/below_deck/s01/e09,below deck,land ahoy... finally
+343,https://www.rottentomatoes.com/tv/little_big_shots/s03/e06,little big shots,too many chefs
+344,https://www.rottentomatoes.com/tv/pawn_stars/s09/e14,pawn stars,the great pawnbino
+345,https://www.rottentomatoes.com/tv/little_big_shots/s03/e09,little big shots,give us s'mores
+346,https://www.rottentomatoes.com/tv/mr_robot/s03/e01,mr. robot,eps3.0_power-saver-mode.h
+347,https://www.rottentomatoes.com/tv/little_big_shots/s03/e01,little big shots,third time's a charm
+348,https://www.rottentomatoes.com/tv/little_big_shots/s04/e13,little big shots,the world just touches my heart
+349,https://www.rottentomatoes.com/tv/mr_robot/s04/e04,mr. robot,404 not found
+350,https://www.rottentomatoes.com/tv/yellowstone/s03/e05,yellowstone,cowboys and dreamers
+351,https://www.rottentomatoes.com/tv/yellowstone/s03/e07,yellowstone,the beating
+352,https://www.rottentomatoes.com/tv/mr_robot/s04/e07,mr. robot,407 proxy authentication required
+353,https://www.rottentomatoes.com/tv/heroes/s03/e24,heroes,i am sylar
+354,https://www.rottentomatoes.com/tv/pawn_stars/s15/e24,pawn stars,in the presence of greatness
+355,https://www.rottentomatoes.com/tv/friday-night-lights/s05/e03,friday night lights,the right hand of the father
+356,https://www.rottentomatoes.com/tv/eureka/s04/e03,eurek,all the rage
+357,https://www.rottentomatoes.com/tv/mr_robot/s04/e05,mr. robot,405 method not allowed
+358,https://editorial.rottentomatoes.com/article/mr-robot-creator-sam-esmail-stars-portia-doubleday-carly-chaikin-on-season-3-so-far/,mr. robot,eps3.5_kill-process.inc
+359,https://www.rottentomatoes.com/tv/mr_robot/s04/e08/videos,mr. robot,408 request timeout
+360,https://www.rottentomatoes.com/tv/heroes/s04/e14,heroes,let it bleed (edited)
+361,https://www.rottentomatoes.com/tv/mr_robot/s04/e10,mr. robot,410 gone
+362,https://www.rottentomatoes.com/tv/the_office/s05/e12,the office,the duel
+363,https://www.rottentomatoes.com/tv/below_deck/s03/e01,below deck,"more foam, bosun!"
+364,https://www.rottentomatoes.com/tv/summer_house/s04/e11,summer house,a birthday to die for
+365,https://www.rottentomatoes.com/tv/heartbeat_1992/s10/e13,blind date,episode #10
+366,https://www.rottentomatoes.com/tv/listing_impossible/s01/e07,listing impossible,episode #07
+367,https://www.rottentomatoes.com/tv/listing_impossible/s01/e02,listing impossible,the marble monument to love
+368,https://www.rottentomatoes.com/tv/project-runway/s18/e07/pictures,project runway,project runway x ashley longshore
+369,https://www.rottentomatoes.com/tv/married_to_medicine/s08/e05,married to medicine,friendship foes & marital woes
+370,https://www.rottentomatoes.com/tv/married_to_medicine/s07/e07,married to medicine,showdown in savannah
+371,https://www.rottentomatoes.com/tv/summer_house/s04/e03,summer house,worst. date. ever.
+372,https://www.rottentomatoes.com/tv/listing_impossible/s01/e01,listing impossible,the cold box on the beach
+373,https://www.rottentomatoes.com/tv/married_to_medicine/s07/e04,married to medicine,ballin' on a budget
+374,https://www.rottentomatoes.com/tv/blind_date_2019/s01/e09,blind date,episode #09
+375,https://www.rottentomatoes.com/tv/married_to_medicine/s08/e09,married to medicine,let the emoji's fly
+376,https://www.rottentomatoes.com/tv/chopped/s50,blind date,episode #50
+377,https://www.rottentomatoes.com/tv/better_late_than_never/s01/e03,better late than never,seoul brothers
+378,https://www.rottentomatoes.com/tv/listing_impossible/s01/e03,listing impossible,th best castle in orange county
+379,https://www.rottentomatoes.com/tv/project-runway/s06/e12,project runway,the art of fashion
+380,https://www.rottentomatoes.com/tv/project_runway/s18/e06,project runway,there is only one you
+381,https://www.rottentomatoes.com/tv/better_late_than_never/s02/e04,better late than never,how do you say roots in german?
+382,https://editorial.rottentomatoes.com/guide/essential-sci-fi-movies-of-all-time/,blind date,episode #38
+383,https://www.rottentomatoes.com/tv/better_late_than_never/s02/e01,better late than never,munich
+384,https://editorial.rottentomatoes.com/guide/cillian-murphy/,blind date,episode #12
+385,https://www.rottentomatoes.com/tv/better_late_than_never/s01/e02,better late than never,"kyoto and hong kong: less talky, more sake"
+386,https://www.rottentomatoes.com/tv/listing_impossible/s01/e04,listing impossible,the finest english manor in napa
+387,https://www.rottentomatoes.com/tv/good_girls/s03/e04,good girls,the eye in survivor
+388,https://www.rottentomatoes.com/tv/good_girls/s02/e05,good girls,everything must go
+389,https://www.rottentomatoes.com/tv/nurses_2020/s01/e05,nurses,what size are your feet?
+390,https://www.rottentomatoes.com/tv/chicago_med/s01/e10,chicago med,clarity
+391,https://www.rottentomatoes.com/tv/project-runway/s17/e13,project runway,one elle of a day
+392,https://www.rottentomatoes.com/tv/listing_impossible/s01/e08,listing impossible,the house with endless hallways
+393,https://www.rottentomatoes.com/tv/good_girls/s04/e14,good girls,thank you for your support
+394,https://www.rottentomatoes.com/tv/nurses_2020/s01/e06,nurses,risky behaviour
+395,https://www.rottentomatoes.com/tv/total_bellas/s06/e04,total bellas,a bella babyshower
+396,https://www.rottentomatoes.com/tv/nurses_2020/s01/e08,nurses,achilles heel
+397,https://www.rottentomatoes.com/tv/project-runway/s18/e11,project runway,olympic game plan
+398,https://www.rottentomatoes.com/tv/good_girls/s04/e12,good girls,family first
+399,https://www.rottentomatoes.com/tv/keeping_up_with_the_kardashians/s05/e03,keeping up with the kardashians,the missing ring
+400,https://www.rottentomatoes.com/tv/good_girls/s04/e02,good girls,big kahuna
+401,https://www.rottentomatoes.com/tv/nurses_2020/s01/e03,nurses,friday night legend
+402,https://www.rottentomatoes.com/tv/project-runway/s18,project runway,the ultimate upcycle
+403,https://www.rottentomatoes.com/tv/nurses_2020/s01/e02,nurses,undisclosed conditions
+404,https://www.rottentomatoes.com/tv/chicago_med/s04/e20,chicago med,more harm than good
+405,https://www.rottentomatoes.com/tv/new_amsterdam_2018/s01/e05,new amsterdam,cavitation
+406,https://www.rottentomatoes.com/tv/new_amsterdam_2018/s01/e03,new amsterdam,every last minute
+407,https://www.rottentomatoes.com/tv/zoey_s_extraordinary_playlist/s01/e12,zoey's extraordinary playlist,zoey's extraordinary dad
+408,https://www.rottentomatoes.com/tv/chicago_med/s01/e04,chicago med,mistaken
+409,https://www.rottentomatoes.com/tv/young_rock/s01/e05,young rock,don't go breaking my heart
+410,https://www.rottentomatoes.com/tv/good_girls/s04/e01,good girls,one night in bangkok
+411,https://www.rottentomatoes.com/tv/nurses_2020/s01/e09,nurses,mirror box
+412,https://www.rottentomatoes.com/tv/new_amsterdam_2018/s01/e13,new amsterdam,the blues
+413,https://www.rottentomatoes.com/tv/chicago_fire/s01/e16,chicago fire,viral
+414,https://www.rottentomatoes.com/tv/chicago_fire/s08/e01,chicago fire,sacred ground
+415,https://www.rottentomatoes.com/tv/good_girls/s03/e05,good girls,au jus
+416,https://www.rottentomatoes.com/tv/nurses_2020/s01,nurses,incoming
+417,https://www.rottentomatoes.com/tv/zoey_s_extraordinary_playlist/s02/e06,zoey's extraordinary playlist,zoey's extraordinary reckoning
+418,https://www.rottentomatoes.com/tv/chicago_fire/s02/e06,chicago fire,joyriding
+419,https://www.rottentomatoes.com/tv/good_girls/s03/e11,good girls,synergy
+420,https://www.rottentomatoes.com/tv/good_girls/s01/e04,good girl,atom bomb
+421,https://www.rottentomatoes.com/tv/this_is_us/s04/e01,this is us,strangers
+422,https://www.rottentomatoes.com/tv/this_is_us/s02/e17,this is us,"this big, amazing, beautiful life"
+423,https://www.rottentomatoes.com/tv/young_rock/s01/e10,young rock,good vs. great
+424,https://www.rottentomatoes.com/tv/good_girls/s04/e07,good girls,carolyn with a y
+425,https://www.rottentomatoes.com/tv/good_girls/s04/e11,good girls,put it all on two
+426,https://www.rottentomatoes.com/tv/charmed/s07/e22,charmed,something wicca this way goes
+427,https://www.rottentomatoes.com/tv/house/s02/e13,house,skin deep (edited)
+428,https://www.rottentomatoes.com/tv/charmed/s03/e14,charmed,"the good, the bad and the cursed"
+429,https://www.rottentomatoes.com/tv/chicago_fire/s05/e18,chicago fire,take a knee
+430,https://www.rottentomatoes.com/m/1021699-top_secret,house,top secret (edited)
+431,https://www.rottentomatoes.com/tv/charmed/s01/e14,charmed,secrets and guys
+432,https://www.rottentomatoes.com/tv/charmed/s03/e11,charmed,blinded by the whitelighter
+433,https://www.rottentomatoes.com/tv/chicago_fire/s05/e22,chicago fire,my miracle
+434,https://www.rottentomatoes.com/tv/new_amsterdam_2018/s04/e02,new amsterdam,we're in this together
+435,https://www.rottentomatoes.com/tv/charmed/s05/e07,charmed,sympathy for the demon
+436,https://www.rottentomatoes.com/tv/charmed/s07/e16,charmed,the seven year witch
+437,https://www.rottentomatoes.com/tv/house/s01/e02,house,paternity (edited)
+438,https://www.rottentomatoes.com/tv/mr_robot/s02/e11,mr. robot,eps2.9_pyth0n-pt1.p7z
+439,https://www.rottentomatoes.com/tv/million_dollar_listing_new_york/s03,million dollar listing new york,from pocket squares to pocket listings
+440,https://www.rottentomatoes.com/tv/mr_robot/s02/e05,mr. robot,eps2.3_logic-b0mb.hc
+441,https://www.rottentomatoes.com/tv/mr_robot/s02,mr. robot,eps2.2_init_1.asec
+442,https://www.rottentomatoes.com/tv/little_big_shots/s02/e03,little big shots,new sheriff in town
+443,https://www.rottentomatoes.com/tv/mr_robot/s01/e08,mr. robot,eps1.7_wh1ter0se.m4v
+444,https://www.rottentomatoes.com/tv/little_big_shots/s01/e02,little big shots,little boy blue
+445,https://www.rottentomatoes.com/tv/charmed/s02/e13,charmed,animal pragmatism
+446,https://www.rottentomatoes.com/tv/mr_robot/s01/e02/pictures,mr. robot,eps1.1_ones-and-zer0es.mpeg
+448,https://www.rottentomatoes.com/tv/mr_robot/s01/e07,mr. robot,eps1.6_v1ew-s0urce.flv
+449,https://www.rottentomatoes.com/tv/charmed/s04/e10,charmed,a paige from the past
+450,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s06/e12,million dollar listing los angeles,love conquers
+451,https://www.rottentomatoes.com/tv/million_dollar_listing_new_york/s08/e11,million dollar listing new york,good as gold
+452,https://www.rottentomatoes.com/tv/charmed/s05/e16,charmed,baby's first demon
+453,https://www.rottentomatoes.com/tv/million_dollar_listing_new_york/s06/e10,million dollar listing new york,wake. sell. repeat.
+454,https://www.rottentomatoes.com/tv/million_dollar_listing_new_york/s06/e02,million dollar listing new york,the kids aren't alright
+455,https://www.rottentomatoes.com/tv/mr_robot/s02/e10,mr. robot,eps2.8_h1dden-pr0cess.axx
+456,https://www.rottentomatoes.com/tv/million_dollar_listing_los_angeles/s05/e09,million dollar listing los angeles,"big listings, big losses"
+457,https://editorial.rottentomatoes.com/article/new-movies-tv-shows-streaming-in-august-2023/4/,top chef,goodbye to vegas
+458,https://www.rottentomatoes.com/tv/little_big_shots/s01/e06,little big shots,the karate kid
+459,https://www.rottentomatoes.com/tv/little_big_shots/s02/e13,little big shots,the grande finale
+460,https://www.rottentomatoes.com/tv/heroes/s01/e05,heroes,hiros
+461,https://www.rottentomatoes.com/tv/summer_house/s01/e07,summer house,hoedown showdown
+462,https://www.rottentomatoes.com/tv/top_chef/s12/e01,top chef,sudden death
+463,https://www.rottentomatoes.com/m/spider_man_homecoming,heroes,homecoming
+464,https://www.rottentomatoes.com/tv/mr_robot/s01/e05,mr. robot,eps1.4_3xpl0its.wmv
+465,https://www.rottentomatoes.com/tv/mr_robot/s01/e10,mr. robot,eps1.9_zer0-day.avi
+466,https://www.rottentomatoes.com/tv/million_dollar_listing_new_york/s04/e11,million dollar listing new york,the final shakedown
+467,https://www.rottentomatoes.com/tv/heroes/s02/e08,heroes,four months ago...
+468,https://editorial.rottentomatoes.com/article/2016-emmy-award-nominations/,mr. robot,eps1.0_hellofriend.mov
+469,https://www.rottentomatoes.com/tv/mr_robot/s01,mr. robot,eps1.8_m1rr0r1ng.qt
+470,https://www.rottentomatoes.com/tv/murder_she_wrote/s11/e13,"murder, she wrote",death 'n denial
+471,https://www.rottentomatoes.com/tv/downton_abbey/s01/e01,downton abbey,episode #01
+472,https://www.rottentomatoes.com/tv/frasier/s09/e09,frasier,sharing kirby
+473,https://www.rottentomatoes.com/tv/summer_house/s05/e01,summer house,kiss and don't tell
+474,https://www.rottentomatoes.com/tv/chicago_med/s04/e03,chicago med,heavy is the head
+475,https://www.rottentomatoes.com/tv/nurses_2020/s01/e07,nurses,lifeboat
+476,https://www.rottentomatoes.com/tv/nurses_2020/s01/e04,nurses,chrysalis
+477,https://www.rottentomatoes.com/tv/good_girls/s02/e12,good girls,jeff
+478,https://www.rottentomatoes.com/tv/heroes/s01/e10,heroes,six months ago
+479,https://www.rottentomatoes.com/tv/nurses_2020/s01/e10,nurses,lady business
+480,https://www.rottentomatoes.com/tv/good_girls/s03/e08,good girls,nana
+481,https://www.rottentomatoes.com/tv/total_bellas/s04/e05,total bellas,the big mistake
+482,https://www.rottentomatoes.com/tv/summer_house/s03/e06,summer house,swimming uphill
+483,https://www.rottentomatoes.com/tv/summer_house/s01/e01,summer house,watch with the cast: part 1
+484,https://www.rottentomatoes.com/tv/project-runway/s19/e06,project runway,"fashion is back, baby!"
+486,https://www.rottentomatoes.com/tv/ordinary_joe/s01/e02,ordinary joe,requiem
+487,https://www.rottentomatoes.com/tv/total_bellas/s03/e02,total bellas,what to expect when you're not expecting
+488,https://www.rottentomatoes.com/tv/project_runway_redemption/s01,project runway,"if you got it, haunt it"
+489,https://www.rottentomatoes.com/tv/joe_vs_carole/s01,joe vs carole,the tiger king
+490,https://www.rottentomatoes.com/tv/ordinary_joe/s01/e07,ordinary joe,the letter
+491,https://www.rottentomatoes.com/tv/below_deck_down_under/s01/e02,below deck down under,unchained and untamed
+492,https://www.rottentomatoes.com/tv/yellowstone/s04/e10,yellowstone,grass on the streets and weeds on the rooftops
+493,https://www.rottentomatoes.com/tv/ordinary_joe/s01/e09,ordinary joe,thankful
+494,https://www.rottentomatoes.com/tv/ordinary_joe/s01/e06,ordinary joe,always do the right thing
+495,https://www.rottentomatoes.com/tv/million_dollar_listing_new_york/s04/e07,million dollar listing new york,"i love you, puffer munkin"
+496,https://www.rottentomatoes.com/tv/joe_vs_carole/s01,joe vs carole,survival of the fittest
+497,https://www.rottentomatoes.com/tv/bel_air/s01/e02,bel-air,keep ya head up
+498,https://www.rottentomatoes.com/tv/total_bellas/s03,total bellas,have you cena?
+499,https://www.rottentomatoes.com/tv/bel_air/s01/e08,bel-air,no one wins when the family feuds
+500,https://www.rottentomatoes.com/tv/girls5eva/s02/e04,girls5eva,can't wait 2 wait
+501,https://www.rottentomatoes.com/tv/ordinary_joe/s01/e01,ordinary joe,way leads on to way
+502,https://www.rottentomatoes.com/tv/bel_air/s01/e05,bel-air,pa to la
+503,https://www.rottentomatoes.com/tv/joe_vs_carole/s01/e06,joe vs carole,a fairy take
+504,https://www.rottentomatoes.com/tv/bel_air/s01/e04,bel-air,canvass
+505,https://www.rottentomatoes.com/tv/bel_air/s01/e06,bel-air,the strength to smile
+506,https://www.rottentomatoes.com/tv/girls5eva/s02/e01,girls5eva,album mode
+507,https://www.rottentomatoes.com/tv/yellowstone/s04/e06,yellowstone,i want to be him
+508,https://www.rottentomatoes.com/tv/angelyne/s01/e02,angelyne,gods and fairies
+509,https://www.rottentomatoes.com/tv/angelyne/s01/e03,angelyne,glow in the dark queen of the universe
+510,https://www.rottentomatoes.com/tv/girls5eva/s02/e05,girls5eva,leave a message if you love me
+511,https://www.rottentomatoes.com/tv/angelyne/s01/e05,angelyne,pink clouds
+512,https://www.rottentomatoes.com/tv/yellowstone/s04/e03,yellowstone,all i see is you
+513,https://www.rottentomatoes.com/tv/joe_vs_carole/s01,joe vs carole,don
+514,https://www.rottentomatoes.com/tv/below_deck_down_under/s01/e07,below deck down under,the safety dance
+515,https://www.rottentomatoes.com/tv/yellowstone/s04/e05,yellowstone,under a blanket of red
+516,https://www.rottentomatoes.com/tv/bel_air,bel-air,where to?
+517,https://www.rottentomatoes.com/tv/yellowstone/s04/e07,yellowstone,keep the wolves close
+518,https://www.rottentomatoes.com/tv/girls5eva/s02/e03,girls5eva,who u know
+519,https://www.rottentomatoes.com/tv/angelyne/s01/e01,angelyne,dream machine
+520,https://www.rottentomatoes.com/tv/angelyne/s01/e04,angelyne,the tease
+521,https://www.rottentomatoes.com/tv/joe_vs_carole/s01/e01,joe vs carole,unwanted animals
+522,https://www.rottentomatoes.com/tv/joe_vs_carole/s01/e04,joe vs carole,a gun-toting...
+523,https://www.rottentomatoes.com/tv/below_deck_down_under/s01/e06,below deck down under,the tipping point
+524,https://www.rottentomatoes.com/tv/yellowstone/s04/e08,yellowstone,no kindness for the coward
+525,https://www.rottentomatoes.com/tv/below_deck_down_under/s01/e08,below deck down under,prom night
+526,https://www.rottentomatoes.com/tv/girls5eva/s02/e06,girls5eva,b.p.e.
